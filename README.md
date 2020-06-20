@@ -14,4 +14,4 @@ Average Fare per driver =(Total fares)/(Total drivers)\
 Merge series into new Dataframe
 - update labels & formatting
 
-!{}(../Images/Summary_DataFrame.png)
+![](../Images/Summary_DataFrame.png)
